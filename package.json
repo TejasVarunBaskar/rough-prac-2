@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TejasVarunBaskar/sit725-2024-t1-prac2/issues"
   },
-  "homepage": "https://github.com/TejasVarunBaskar/sit725-2024-t1-prac2#readme"
+  "homepage": "https://github.com/TejasVarunBaskar/sit725-2024-t1-prac2#readme",
+  "devDependencies": {},
+  "keywords": [
+    "server.js"]
 }
